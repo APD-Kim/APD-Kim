@@ -2,6 +2,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=APD-Kim)](https://github.com/APD-Kim/github-readme-stats&show_icons=true&theme=radical)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=APD-Kim&show_icons=true&theme=transparent)
+
 <!--
 **APD-Kim/APD-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
